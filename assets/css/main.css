@@ -63,3 +63,12 @@ img{max-width:100%;display:block}a{color:inherit}button,input{font:inherit}.cont
   .hero-content{padding-top:58px;padding-bottom:54px;}
   .page-hero{padding-top:88px;padding-bottom:58px;}
 }
+
+
+/* 2026-07: reliable in-page anchors below the sticky header */
+html{scroll-padding-top:94px}
+section[id]{scroll-margin-top:94px}
+@media(max-width:620px){
+  html{scroll-padding-top:84px}
+  section[id]{scroll-margin-top:84px}
+}

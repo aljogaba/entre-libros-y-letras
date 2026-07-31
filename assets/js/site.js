@@ -101,7 +101,7 @@
     const items = await loadJson('gallery.json');
     if (!items) return showLocalServerHint(target);
     target.innerHTML = items.map(item => `<article class="gallery-card" tabindex="0" data-lightbox-trigger data-src="${item.src}" data-caption="${escapeHtml(item.title)} — ${escapeHtml(item.caption)}">
-      <img src="${item.src}" alt="${escapeHtml(item.caption)}" loading="lazy">
+      <img src="${item.src}" alt="${escapeHtml(item.caption)}" loading="lazy" width="${item.width || 1200}" height="${item.height || 800}">
       <div class="gallery-caption"><small>${escapeHtml(item.date)} · ${escapeHtml(item.format)}</small><h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.caption)}</p></div>
     </article>`).join('');
     bindLightbox();
@@ -144,5 +144,31 @@
     target.innerHTML='<div class="loading-card">No se pudieron cargar los datos. Abre el proyecto con Live Server o publícalo en GitHub Pages.</div>';
   }
 
-  renderCurrent(); renderNews(); renderBooks(); renderGallery(); renderStickers(); renderTimeline();
+  function scrollToCurrentHash() {
+    if (!location.hash || location.hash === '#') return;
+    let id;
+    try { id = decodeURIComponent(location.hash.slice(1)); } catch { id = location.hash.slice(1); }
+    const target = document.getElementById(id);
+    if (!target) return;
+    requestAnimationFrame(() => requestAnimationFrame(() => {
+      target.scrollIntoView({ block: 'start', behavior: 'auto' });
+    }));
+  }
+
+  async function init() {
+    // A cross-page hash can be positioned before the JSON gallery is rendered.
+    // Start at the top, render all dynamic content, then place the target reliably.
+    if (location.hash) {
+      if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+      window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+    }
+    await Promise.all([
+      renderCurrent(), renderNews(), renderBooks(), renderGallery(),
+      renderStickers(), renderTimeline()
+    ]);
+    scrollToCurrentHash();
+  }
+
+  window.addEventListener('hashchange', scrollToCurrentHash);
+  init();
 })();
