@@ -1,0 +1,23 @@
+[
+  {
+    "date": "Julio de 2026",
+    "tag": "Segundo año",
+    "title": "Una nueva etapa comienza",
+    "text": "Después de cerrar el primer año con Cien años de soledad, el club inicia la lectura de Cadáver exquisito.",
+    "link": "lecturas.html"
+  },
+  {
+    "date": "18 de junio de 2026",
+    "tag": "Aniversario",
+    "title": "Un año entre libros y letras",
+    "text": "El primer aniversario quedó marcado por una comunidad que ha leído, dialogado y construido memoria en conjunto.",
+    "link": "nosotros.html#historia"
+  },
+  {
+    "date": "Enero-febrero de 2026",
+    "tag": "Comunidad",
+    "title": "Nuevas generaciones se suman",
+    "text": "Dos jóvenes lectores se integraron al club con títulos acordes a sus intereses y edades.",
+    "link": "galeria.html"
+  }
+]

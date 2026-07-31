@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ensayo-sobre-la-ceguera",
+    "title": "Ensayo sobre la ceguera",
+    "author": "José Saramago",
+    "period": "Julio 2025",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/ensayo-sobre-la-ceguera.jpg",
+    "note": "Primera sesión documentada del club; encuentro presencial en Tepatitlán."
+  },
+  {
+    "id": "no-tengas-miedo",
+    "title": "No tengas miedo",
+    "author": "Stephen King",
+    "period": "Agosto 2025",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/no-tengas-miedo.jpg",
+    "note": "Conversación realizada en línea."
+  },
+  {
+    "id": "yo-que-nunca-supe",
+    "title": "Yo que nunca supe de los hombres",
+    "author": "Jacqueline Harpman",
+    "period": "Septiembre 2025",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/yo-que-nunca-supe-de-los-hombres.jpg",
+    "note": "Lectura compartida en sesión virtual."
+  },
+  {
+    "id": "cartas-del-diablo",
+    "title": "Cartas del diablo a su sobrino",
+    "author": "C. S. Lewis",
+    "period": "Septiembre 2025",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/cartas-del-diablo-a-su-sobrino.jpg",
+    "note": "Leído y discutido junto con la obra de Jacqueline Harpman."
+  },
+  {
+    "id": "ultima-pregunta",
+    "title": "La última pregunta",
+    "author": "Isaac Asimov",
+    "period": "Noviembre 2025",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/la-ultima-pregunta.jpg",
+    "note": "Sesión presencial del 12 de noviembre de 2025."
+  },
+  {
+    "id": "vendedores-de-almas",
+    "title": "Los vendedores de almas",
+    "author": "Alejandro Páez Varela",
+    "period": "Noviembre 2025",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/los-vendedores-de-almas.jpg",
+    "note": "Conversación presencial junto con La última pregunta."
+  },
+  {
+    "id": "cuerpos-dispersos",
+    "title": "A vuestros cuerpos dispersos",
+    "author": "Philip José Farmer",
+    "period": "Diciembre 2025",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/a-vuestros-cuerpos-dispersos.jpg",
+    "note": "Lectura discutida durante la sesión de diciembre."
+  },
+  {
+    "id": "la-inmortalidad",
+    "title": "La inmortalidad",
+    "author": "Milan Kundera",
+    "period": "Enero-febrero 2026",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/la-inmortalidad.jpg",
+    "note": "Lectura de dos meses, acompañada por conversaciones de avance en redes sociales."
+  },
+  {
+    "id": "the-measure",
+    "title": "The Measure: Las cuerdas del destino",
+    "author": "Nikki Erlick",
+    "period": "Marzo-mayo 2026",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/the-measure-las-cuerdas-del-destino.jpg",
+    "note": "Comenzado en marzo-abril y conversado en una reunión posterior."
+  },
+  {
+    "id": "cien-anos",
+    "title": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "period": "Mayo-junio 2026",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/cien-anos-de-soledad.jpg",
+    "note": "Lectura con la que Entre libros y letras cerró su primer año."
+  },
+  {
+    "id": "cadaver-exquisito",
+    "title": "Cadáver exquisito",
+    "author": "Agustina Bazterrica",
+    "period": "Segundo año · 2026",
+    "status": "Leyendo",
+    "current": true,
+    "cover": "assets/images/books/cadaver-exquisito.jpg",
+    "note": "La lectura con la que Entre libros y letras inicia su segundo año."
+  }
+]

@@ -1,0 +1,72 @@
+<!doctype html><html lang="es"><head><title>Lecturas · Entre libros y letras</title><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Entre libros y letras, club de lectura de Tepatitlán de Morelos, Jalisco.">
+<meta name="theme-color" content="#3f492c">
+<link rel="icon" href="favicon.png" type="image/png">
+<link rel="stylesheet" href="assets/css/main.css"></head>
+<body data-page="lecturas"><header class="site-header" data-header>
+  <a class="brand" href="index.html" aria-label="Entre libros y letras, inicio">
+    <img src="assets/images/identity/logo-olive.webp" alt="" width="54" height="54">
+    <span><strong>Entre libros</strong><small>y letras</small></span>
+  </a>
+  <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-menu-toggle>
+    <span></span><span></span><span></span><span class="sr-only">Abrir menú</span>
+  </button>
+  <nav class="site-nav" id="site-nav" data-nav>
+    <a href="index.html">Inicio</a>
+    <a href="lecturas.html">Lecturas</a>
+    <a href="galeria.html">Galería</a>
+    <a href="nosotros.html">Sobre el club</a>
+  </nav>
+</header>
+<main>
+<section class="page-hero page-hero-books">
+  <div class="container"><p class="eyebrow">Nuestra biblioteca compartida</p><h1>Lecturas</h1><p>Los libros que han abierto las conversaciones del club desde su fundación.</p></div>
+</section>
+<section class="section section-paper">
+  <div class="container reading-toolbar">
+    <div><p class="eyebrow">Registro 2025-2026</p><h2>Once libros, muchas conversaciones</h2></div>
+    <div class="filter-group" role="group" aria-label="Filtrar lecturas">
+      <button type="button" class="filter-button is-active" data-book-filter="all">Todas</button>
+      <button type="button" class="filter-button" data-book-filter="Leído">Leídas</button>
+      <button type="button" class="filter-button" data-book-filter="Leyendo">Leyendo</button>
+    </div>
+  </div>
+  <div class="container books-grid" id="books-grid"><div class="loading-card">Cargando biblioteca…</div></div>
+  <div class="container source-note"><p>Todas las portadas se conservan localmente en <code>assets/images/books/</code>. Para sumar una lectura, agrega la imagen a esa carpeta y registra su ruta en <code>assets/data/books.json</code>.</p></div>
+</section>
+<section class="section quote-section">
+  <div class="container quote-card">
+    <img src="assets/images/titivillus/titivillus-peek.png" alt="" aria-hidden="true">
+    <blockquote>“Leer juntos nos permite detenernos, compartir ideas y abrir los ojos ante realidades que muchas veces pasamos por alto.”</blockquote>
+    <p>Proyecto de formación de Entre libros y letras</p>
+  </div>
+</section>
+</main><footer class="site-footer">
+  <div class="footer-grid">
+    <div>
+      <p class="eyebrow">Entre libros y letras</p>
+      <p>Club de lectura de Tepatitlán de Morelos, Jalisco. Folio FCE CLC3165.</p>
+    </div>
+    <div>
+      <p class="footer-title">Síguenos</p>
+      <div class="social-links">
+        <a href="https://www.instagram.com/club_entrelibrosyletras/" target="_blank" rel="noopener">Instagram</a>
+        <a href="https://www.facebook.com/profile.php?id=61576953523553" target="_blank" rel="noopener">Facebook</a>
+      </div>
+    </div>
+    <div>
+      <p class="footer-title">Vínculos</p>
+      <a href="https://www.fondodeculturaeconomica.gob.mx/" target="_blank" rel="noopener">Fondo de Cultura Económica</a>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© <span data-year></span> Entre libros y letras</span>
+    <span>by Alberto Jorge Galindo Barboza</span>
+  </div>
+</footer>
+<div class="lightbox" data-lightbox hidden aria-hidden="true">
+  <button type="button" class="lightbox-close" data-lightbox-close aria-label="Cerrar imagen">×</button>
+  <img src="" alt="" data-lightbox-image>
+  <p data-lightbox-caption></p>
+</div><script src="assets/js/site.js" defer></script></body></html>
