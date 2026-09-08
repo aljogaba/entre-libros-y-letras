@@ -115,5 +115,23 @@
     "caption": "Integrantes del club al finalizar la sesión.",
     "width": 1351,
     "height": 607
+  },
+    {
+    "src": "assets/images/meetings/2026-09-03-presencial_1.jpeg",
+    "date": "03 Septiembre 2026",
+    "title": "Discusión de Cadáver Exquisito",
+    "format": "Presencial",
+    "caption": "Elizabeth y Susana.",
+    "width": 1351,
+    "height": 607
+  },
+      {
+    "src": "assets/images/meetings/2026-09-03-presencial_2.jpeg",
+    "date": "03 Septiembre 2026",
+    "title": "Discusión de Cadáver Exquisito",
+    "format": "Presencial",
+    "caption": "Nuevo integrante, Bienvenido Heriberto (saliste cortado).",
+    "width": 1351,
+    "height": 607
   }
 ]
