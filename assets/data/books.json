@@ -104,9 +104,19 @@
     "title": "Cadáver exquisito",
     "author": "Agustina Bazterrica",
     "period": "Segundo año · 2026",
-    "status": "Leyendo",
-    "current": true,
+    "status": "Leído",
+    "current": false,
     "cover": "assets/images/books/cadaver-exquisito.jpg",
     "note": "La lectura con la que Entre libros y letras inicia su segundo año."
+  },
+    {
+    "id": "mercader-libros",
+    "title": "El mercader de libros",
+    "author": "Luis Zueco",
+    "period": "Segundo año · 2026",
+    "status": "Leyendo",
+    "current": true,
+    "cover": "assets/images/books/mercader-libros.jpg",
+    "note": "Vamos por el segundo libro en el segundo año."
   }
 ]
