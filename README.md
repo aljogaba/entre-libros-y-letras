@@ -41,6 +41,25 @@ Edita `assets/data/books.json`:
 
 El sitio no necesita Open Library ni otro servidor de portadas. Si una imagen falta, todavía mostrará una cubierta tipográfica de respaldo.
 
+## Biblioteca física de Jorge
+
+`biblioteca.html` es un estante digital de los libros que Jorge posee físicamente. Es independiente de las lecturas del club y no muestra procedencia, lotes ni distribución administrativa.
+
+La página se alimenta de:
+
+```text
+assets/data/biblioteca-jorge-01.json
+assets/data/biblioteca-jorge-02.json
+assets/data/biblioteca-jorge-03.json
+assets/data/biblioteca-jorge-04.json
+```
+
+Estos archivos son **salidas derivadas** del repositorio administrativo privado y no deben convertirse en una segunda fuente de verdad.
+
+Las portadas personales pueden colocarse en una carpeta específica dentro de `assets/images/` y referenciarse desde la salida pública. Si no hay portada, la página muestra una cubierta tipográfica de respaldo.
+
+El acceso a esta biblioteca se mantiene discreto desde el footer del sitio; no forma parte de la navegación principal del club.
+
 ## Agregar una reunión
 
 1. Copia la foto en `assets/images/meetings/`.
@@ -63,9 +82,12 @@ index.html
 lecturas.html
 galeria.html
 nosotros.html
+biblioteca.html
 assets/
   css/main.css
+  css/biblioteca.css
   js/site.js
+  js/biblioteca.js
   data/
   documents/
   images/
