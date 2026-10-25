@@ -1,0 +1,32 @@
+<!doctype html><html lang="es"><head><title>Biblioteca de Jorge · Entre libros y letras</title><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Estante digital de la biblioteca física de Alberto Jorge Galindo Barboza.">
+<meta name="theme-color" content="#3f492c">
+<link rel="icon" href="favicon.png" type="image/png">
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/css/biblioteca.css"></head>
+<body data-page="biblioteca"><header class="site-header" data-header>
+  <a class="brand" href="index.html" aria-label="Entre libros y letras, inicio">
+    <img src="assets/images/identity/logo-olive.webp" alt="" width="54" height="54">
+    <span><strong>Entre libros</strong><small>y letras</small></span>
+  </a>
+  <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-menu-toggle><span></span><span></span><span></span><span class="sr-only">Abrir menú</span></button>
+  <nav class="site-nav" id="site-nav" data-nav>
+    <a href="index.html">Inicio</a><a href="lecturas.html">Lecturas</a><a href="galeria.html">Galería</a><a href="nosotros.html">Sobre el club</a>
+  </nav>
+</header>
+<main>
+<section class="library-hero"><div class="container library-hero-inner"><p class="eyebrow">Estante personal</p><h1>Biblioteca de Jorge</h1><p>Un registro de los libros que forman parte de mi biblioteca física. Un estante digital para recordar lo que tengo, explorar autores y seguir haciendo crecer la colección.</p></div></section>
+<section class="section section-paper library-section">
+  <div class="container library-stats" id="library-stats"><div class="loading-card">Cargando biblioteca…</div></div>
+  <div class="container library-toolbar">
+    <label class="library-search"><span class="sr-only">Buscar en la biblioteca</span><input id="library-search" type="search" placeholder="Buscar por título, autor, editorial o ISBN…" autocomplete="off"></label>
+    <select id="library-sort" aria-label="Ordenar biblioteca"><option value="title">Título A–Z</option><option value="author">Autor A–Z</option><option value="year-desc">Año más reciente</option></select>
+  </div>
+  <div class="container library-meta"><p id="library-count"></p></div>
+  <div class="container personal-library-grid" id="personal-library-grid"><div class="loading-card">Cargando libros…</div></div>
+  <div class="container library-empty" id="library-empty" hidden>No encontré libros con ese criterio.</div>
+</section>
+</main>
+<footer class="site-footer"><div class="footer-grid"><div><p class="eyebrow">Entre libros y letras</p><p>Club de lectura de Tepatitlán de Morelos, Jalisco. Folio FCE CLC3165.</p></div><div><p class="footer-title">Volver al club</p><div class="social-links"><a href="index.html">Inicio</a><a href="lecturas.html">Lecturas del club</a></div></div><div><p class="footer-title">Biblioteca</p><p>Estante físico personal de Alberto Jorge Galindo Barboza.</p></div></div><div class="footer-bottom"><span>© <span data-year></span> Entre libros y letras</span><span>by Alberto Jorge Galindo Barboza</span></div></footer>
+<script src="assets/js/site.js" defer></script><script src="assets/js/biblioteca.js" defer></script></body></html>
