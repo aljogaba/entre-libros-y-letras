@@ -48,9 +48,18 @@
 
   async function init(){
     try {
-      const r = await fetch('assets/data/biblioteca-jorge.json');
-      if (!r.ok) throw new Error(r.statusText);
-      books = await r.json();
+      const files = [
+        'assets/data/biblioteca-jorge-01.json',
+        'assets/data/biblioteca-jorge-02.json',
+        'assets/data/biblioteca-jorge-03.json',
+        'assets/data/biblioteca-jorge-04.json'
+      ];
+      const groups = await Promise.all(files.map(async file => {
+        const r = await fetch(file);
+        if (!r.ok) throw new Error(`${file}: ${r.statusText}`);
+        return await r.json();
+      }));
+      books = groups.flat();
       renderStats(); render();
       search?.addEventListener('input', render);
       sort?.addEventListener('change', render);
