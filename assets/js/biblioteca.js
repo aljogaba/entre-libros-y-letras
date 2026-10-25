@@ -48,14 +48,11 @@
 
   async function init(){
     try {
-      const files = [
-        'assets/data/biblioteca-jorge-01.json',
-        'assets/data/biblioteca-jorge-02.json',
-        'assets/data/biblioteca-jorge-03.json',
-        'assets/data/biblioteca-jorge-04.json'
-      ];
-      const groups = await Promise.all(files.map(async file => {
-        const r = await fetch(file);
+      const manifestResponse = await fetch('assets/data/biblioteca-jorge-manifest.json');
+      if (!manifestResponse.ok) throw new Error(manifestResponse.statusText);
+      const manifest = await manifestResponse.json();
+      const groups = await Promise.all((manifest.parts || []).map(async file => {
+        const r = await fetch(`assets/data/${file}`);
         if (!r.ok) throw new Error(`${file}: ${r.statusText}`);
         return await r.json();
       }));
