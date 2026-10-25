@@ -61,7 +61,35 @@ La publicación se prepara desde el repositorio administrativo con:
 
 Después se revisan y publican los cambios del repo público mediante Git.
 
-Las portadas personales pueden colocarse en una carpeta específica dentro de `assets/images/` y referenciarse desde la salida pública. Si no hay portada, la página muestra una cubierta tipográfica de respaldo.
+### Portadas de la Biblioteca de Jorge
+
+Las portadas personales viven en:
+
+```text
+assets/images/library/
+```
+
+No es necesario editar el JSON para agregar una portada a un libro ya registrado. La web usa automáticamente el `id` del libro como nombre de archivo.
+
+Formato preferido:
+
+```text
+{id}.webp
+```
+
+También se aceptan `.jpg`, `.jpeg` y `.png`; la web prueba esos formatos automáticamente si no encuentra el `.webp`.
+
+Ejemplos:
+
+```text
+assets/images/library/1984.webp
+assets/images/library/delatora.webp
+assets/images/library/el-tulipan-negro.webp
+```
+
+Si no existe una imagen para ese `id`, la página conserva la cubierta tipográfica de respaldo.
+
+Las instrucciones específicas de esta carpeta están en `assets/images/library/README.md`.
 
 El acceso a esta biblioteca se mantiene discreto desde el footer del sitio; no forma parte de la navegación principal del club.
 
@@ -100,6 +128,7 @@ assets/
     about/
     books/
     identity/
+    library/
     meetings/
     stickers/
     titivillus/
