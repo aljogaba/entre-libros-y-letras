@@ -13,7 +13,29 @@
 
   function cover(b){
     const title = esc(b.titulo), author = esc(b.autor || '');
-    return `<div class="personal-book-cover"><div class="personal-book-fallback"><strong>${title}</strong><span>${author}</span></div>${b.portada ? `<img src="${esc(b.portada)}" alt="Portada de ${title}" loading="lazy" onerror="this.remove()">` : ''}</div>`;
+    const explicit = Boolean(b.portada);
+    const src = explicit ? b.portada : `assets/images/library/${b.id}.webp`;
+    return `<div class="personal-book-cover"><div class="personal-book-fallback"><strong>${title}</strong><span>${author}</span></div><img src="${esc(src)}" alt="Portada de ${title}" loading="lazy" data-cover-id="${esc(b.id)}" data-cover-explicit="${explicit ? '1' : '0'}"></div>`;
+  }
+
+  function wireCoverFallbacks(){
+    grid.querySelectorAll('img[data-cover-id]').forEach(img => {
+      if (img.dataset.coverExplicit === '1') {
+        img.addEventListener('error', () => img.remove(), {once:true});
+        return;
+      }
+      const id = img.dataset.coverId;
+      const extensions = ['webp', 'jpg', 'jpeg', 'png'];
+      let index = 0;
+      img.addEventListener('error', () => {
+        index += 1;
+        if (index < extensions.length) {
+          img.src = `assets/images/library/${id}.${extensions[index]}`;
+        } else {
+          img.remove();
+        }
+      });
+    });
   }
 
   function renderStats(){
@@ -44,6 +66,7 @@
       const isbn = b.isbn ? `<div class="personal-book-meta">ISBN ${esc(b.isbn)}</div>` : '';
       return `<article class="personal-book">${cover(b)}<h2>${esc(b.titulo)}</h2><div class="personal-book-author">${esc(b.autor || '')}</div>${meta ? `<div class="personal-book-meta">${meta}</div>` : ''}${isbn}</article>`;
     }).join('');
+    wireCoverFallbacks();
   }
 
   async function init(){
