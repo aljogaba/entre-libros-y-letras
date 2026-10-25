@@ -46,17 +46,25 @@
     }).join('');
   }
 
+  async function loadLibrary(){
+    const single = await fetch('assets/data/biblioteca-jorge.json', {cache: 'no-store'});
+    if (single.ok) return await single.json();
+
+    // Compatibilidad temporal con la versión segmentada anterior.
+    const manifestResponse = await fetch('assets/data/biblioteca-jorge-manifest.json', {cache: 'no-store'});
+    if (!manifestResponse.ok) throw new Error('No se encontró la salida pública de la biblioteca.');
+    const manifest = await manifestResponse.json();
+    const groups = await Promise.all((manifest.parts || []).map(async file => {
+      const r = await fetch(`assets/data/${file}`, {cache: 'no-store'});
+      if (!r.ok) throw new Error(`${file}: ${r.statusText}`);
+      return await r.json();
+    }));
+    return groups.flat();
+  }
+
   async function init(){
     try {
-      const manifestResponse = await fetch('assets/data/biblioteca-jorge-manifest.json');
-      if (!manifestResponse.ok) throw new Error(manifestResponse.statusText);
-      const manifest = await manifestResponse.json();
-      const groups = await Promise.all((manifest.parts || []).map(async file => {
-        const r = await fetch(`assets/data/${file}`);
-        if (!r.ok) throw new Error(`${file}: ${r.statusText}`);
-        return await r.json();
-      }));
-      books = groups.flat();
+      books = await loadLibrary();
       renderStats(); render();
       search?.addEventListener('input', render);
       sort?.addEventListener('change', render);
