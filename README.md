@@ -45,16 +45,21 @@ El sitio no necesita Open Library ni otro servidor de portadas. Si una imagen fa
 
 `biblioteca.html` es un estante digital de los libros que Jorge posee físicamente. Es independiente de las lecturas del club y no muestra procedencia, lotes ni distribución administrativa.
 
-La página se alimenta de:
+La página se alimenta únicamente de:
 
 ```text
-assets/data/biblioteca-jorge-01.json
-assets/data/biblioteca-jorge-02.json
-assets/data/biblioteca-jorge-03.json
-assets/data/biblioteca-jorge-04.json
+assets/data/biblioteca-jorge.json
 ```
 
-Estos archivos son **salidas derivadas** del repositorio administrativo privado y no deben convertirse en una segunda fuente de verdad.
+Ese archivo es una **salida derivada** del repositorio privado `aljogaba/entre-libros-y-letras-admin`; no se edita manualmente ni funciona como una segunda fuente de verdad.
+
+La publicación se prepara desde el repositorio administrativo con:
+
+```powershell
+.\publicar_biblioteca.cmd
+```
+
+Después se revisan y publican los cambios del repo público mediante Git.
 
 Las portadas personales pueden colocarse en una carpeta específica dentro de `assets/images/` y referenciarse desde la salida pública. Si no hay portada, la página muestra una cubierta tipográfica de respaldo.
 
@@ -89,6 +94,7 @@ assets/
   js/site.js
   js/biblioteca.js
   data/
+    biblioteca-jorge.json
   documents/
   images/
     about/
