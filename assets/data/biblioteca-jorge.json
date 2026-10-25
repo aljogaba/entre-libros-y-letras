@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "1984",
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "editorial": "Editorial Época",
+    "anio": 2010,
+    "coleccion": "Nuevo Talento",
+    "isbn": "9789706274304",
+    "portada": null
+  },
+  {
+    "id": "ahi-viene-el-lobo",
+    "titulo": "Ahí viene el lobo",
+    "autor": "David Martín del Campo",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2023,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071678034",
+    "portada": null
+  },
+  {
+    "id": "asi-hablaba-zaratustra",
+    "titulo": "Así hablaba Zaratustra",
+    "autor": "Friedrich Nietzsche",
+    "editorial": "Editores Mexicanos Unidos",
+    "anio": 2015,
+    "coleccion": null,
+    "isbn": "9786071411280",
+    "portada": null
+  },
+  {
+    "id": "avenida-10-de-julio",
+    "titulo": "Avenida 10 de Julio",
+    "autor": "Nona Fernández",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2023,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071681232",
+    "portada": null
+  },
+  {
+    "id": "bolcheviques-historia-narrativa-de-los-origenes-del-comunismo-en-mexico",
+    "titulo": "Bolcheviques. Historia narrativa de los orígenes del comunismo en México",
+    "autor": "Paco Ignacio Taibo II",
+    "editorial": "Planeta",
+    "anio": 2019,
+    "coleccion": null,
+    "isbn": "9786070756061",
+    "portada": null
+  },
+  {
+    "id": "bombas-yucatecas",
+    "titulo": "Bombas yucatecas",
+    "autor": "Antología / varios autores",
+    "editorial": "Editorial Dante",
+    "anio": 2008,
+    "coleccion": null,
+    "isbn": "9789706053664",
+    "portada": null
+  },
+  {
+    "id": "canto-kechwa",
+    "titulo": "Canto kechwa",
+    "autor": "José María Arguedas",
+    "editorial": "Ediciones Club del Libro Peruano (edición histórica localizada)",
+    "anio": 1938,
+    "coleccion": null,
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "canto-villano",
+    "titulo": "Canto villano",
+    "autor": "Blanca Varela",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "ch-ayet-k-inal-las-formas-de-la-ausencia",
+    "titulo": "Ch’ayet k’inal. Las formas de la ausencia",
+    "autor": "Delmar Penka",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2024,
+    "coleccion": "Tierra Adentro",
+    "isbn": "9786071682796",
+    "portada": null
+  },
+  {
+    "id": "como-tirar-contra-la-muerte",
+    "titulo": "Cómo tirar contra la muerte",
+    "autor": "Juan Gelman",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "conducir-un-trailer",
+    "titulo": "Conducir un tráiler",
+    "autor": "Rogelio Guedea",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2019,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071664402",
+    "portada": null
+  },
+  {
+    "id": "contra-el-apagon-voces-de-gaza-durante-el-genocidio",
+    "titulo": "Contra el apagón. Voces de Gaza durante el genocidio",
+    "autor": "Varios autores",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2024,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "cuando-las-panteras-no-eran-negras",
+    "titulo": "Cuando las panteras no eran negras",
+    "autor": "Fabio Morábito",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2010,
+    "coleccion": "A la Orilla del Viento",
+    "isbn": "9786071602039",
+    "portada": null
+  },
+  {
+    "id": "delatora",
+    "titulo": "Delatora",
+    "autor": "Joyce Carol Oates",
+    "editorial": "Alfaguara",
+    "anio": 2021,
+    "coleccion": "Narrativa Internacional",
+    "isbn": "9786073199797",
+    "portada": null
+  },
+  {
+    "id": "disparos-en-la-oscuridad",
+    "titulo": "Disparos en la oscuridad",
+    "autor": "Fabrizio Mejía Madrid",
+    "editorial": "Debate / Penguin Random House (edición localizada)",
+    "anio": 2012,
+    "coleccion": null,
+    "isbn": "9786071112521",
+    "portada": null
+  },
+  {
+    "id": "dorsal",
+    "titulo": "Dorsal",
+    "autor": "Nadia López García",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2022,
+    "coleccion": "Poesía",
+    "isbn": "9786071675651",
+    "portada": null
+  },
+  {
+    "id": "dreams-from-my-father-a-story-of-race-and-inheritance",
+    "titulo": "Dreams from My Father: A Story of Race and Inheritance",
+    "autor": "Barack Obama",
+    "editorial": "Three Rivers Press / Crown",
+    "anio": 2004,
+    "coleccion": null,
+    "isbn": "9781400082773",
+    "portada": null
+  },
+  {
+    "id": "duermevelas",
+    "titulo": "Duermevelas",
+    "autor": "Adela Fernández",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": null,
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "el-abanico-de-seda",
+    "titulo": "El abanico de seda",
+    "autor": "Lisa See",
+    "editorial": "Salamandra",
+    "anio": 2012,
+    "coleccion": "Letras de Bolsillo",
+    "isbn": "9788498384277",
+    "portada": null
+  },
+  {
+    "id": "el-abogado-y-la-senora",
+    "titulo": "El abogado y la señora",
+    "autor": "Dante Liano",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2024,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071685636",
+    "portada": null
+  },
+  {
+    "id": "el-abrazo-de-la-noche",
+    "titulo": "El abrazo de la noche",
+    "autor": "Sherrilyn Kenyon",
+    "editorial": "Debolsillo / Random House Mondadori",
+    "anio": 2010,
+    "coleccion": null,
+    "isbn": "9786074296488",
+    "portada": null
+  },
+  {
+    "id": "el-amor-en-los-tiempos-del-colera",
+    "titulo": "El amor en los tiempos del cólera",
+    "autor": "Gabriel García Márquez",
+    "editorial": "Diana / Editorial Planeta Mexicana",
+    "anio": 2015,
+    "coleccion": null,
+    "isbn": "9786070729164",
+    "portada": null
+  },
+  {
+    "id": "el-atravesado",
+    "titulo": "El atravesado",
+    "autor": "Andrés Caicedo",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "el-barcarola",
+    "titulo": "El Barcarola",
+    "autor": "Eduardo Rojas Rebolledo",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2021,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": "9786071671394",
+    "portada": null
+  },
+  {
+    "id": "el-bardo-y-el-bandolero",
+    "titulo": "El bardo y el bandolero",
+    "autor": "Jacinto Barrera Bassols",
+    "editorial": "Universidad Autónoma de Puebla (edición localizada)",
+    "anio": 1987,
+    "coleccion": null,
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "el-colapso",
+    "titulo": "El colapso",
+    "autor": "José Luis Torres",
+    "editorial": "Grupo Rodríguez Porrúa, S.A. de C.V.",
+    "anio": null,
+    "coleccion": null,
+    "isbn": "9786078466948",
+    "portada": null
+  },
+  {
+    "id": "el-cuento-1002-de-sherezada",
+    "titulo": "El cuento 1002 de Sherezada",
+    "autor": "Edgar Allan Poe",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2024,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": "9786071686275",
+    "portada": null
+  },
+  {
+    "id": "el-diosero",
+    "titulo": "El diosero",
+    "autor": "Francisco Rojas González",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": null,
+    "coleccion": "Colección Popular",
+    "isbn": "9789681606107",
+    "portada": null
+  },
+  {
+    "id": "el-enamoramiento-y-el-mal-de-amores",
+    "titulo": "El enamoramiento y el mal de amores",
+    "autor": "Alberto Orlandini",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2003,
+    "coleccion": "La Ciencia para Todos",
+    "isbn": "9789681666255",
+    "portada": null
+  },
+  {
+    "id": "el-estruendo-del-silencio",
+    "titulo": "El estruendo del silencio",
+    "autor": "Bernardo Fernández (Bef)",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2022,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071675859",
+    "portada": null
+  },
+  {
+    "id": "el-infierno-tan-temido-y-otros-cuentos",
+    "titulo": "El infierno tan temido y otros cuentos",
+    "autor": "Juan Carlos Onetti",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": "9786287800182",
+    "portada": null
+  },
+  {
+    "id": "el-laberinto-de-la-soledad-postdata-vuelta-a-el-laberinto-de-la-soledad",
+    "titulo": "El laberinto de la soledad, Postdata, Vuelta a El laberinto de la soledad",
+    "autor": "Octavio Paz",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2019,
+    "coleccion": "Colección Popular",
+    "isbn": "9789681659707",
+    "portada": null
+  },
+  {
+    "id": "el-libro-de-la-imaginacion",
+    "titulo": "El libro de la imaginación",
+    "autor": "Edmundo Valadés (selección)",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2015,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071626219",
+    "portada": null
+  },
+  {
+    "id": "el-lobo-mexicano-los-hermanos",
+    "titulo": "El lobo mexicano / Los hermanos",
+    "autor": "Arturo Ortega Cuenca",
+    "editorial": "Consejo Nacional de Fomento Educativo (CONAFE)",
+    "anio": 1990,
+    "coleccion": null,
+    "isbn": "9789707401105",
+    "portada": null
+  },
+  {
+    "id": "el-nino-de-la-ciudad-ancestral",
+    "titulo": "El niño de la ciudad ancestral",
+    "autor": "Tad Williams",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2026,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": "9786071690128",
+    "portada": null
+  },
+  {
+    "id": "el-principito",
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "editorial": "Emecé / Grupo Planeta",
+    "anio": 2010,
+    "coleccion": null,
+    "isbn": "9786070704420",
+    "portada": null
+  },
+  {
+    "id": "el-rencor",
+    "titulo": "El rencor",
+    "autor": "Fabrizio Mejía Madrid",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2023,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071681454",
+    "portada": null
+  },
+  {
+    "id": "el-tulipan-negro",
+    "titulo": "El tulipán negro",
+    "autor": "Alexandre Dumas",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2020,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071669148",
+    "portada": null
+  },
+  {
+    "id": "el-ultimo-argumento-del-rey",
+    "titulo": "El último argumento del Rey",
+    "autor": "Luis Miguel Estrada O.",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2024,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071682727",
+    "portada": null
+  },
+  {
+    "id": "el-ultimo-suspiro-del-conquistador",
+    "titulo": "El último suspiro del Conquistador",
+    "autor": "Pedro Miguel",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2020,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071669445",
+    "portada": null
+  },
+  {
+    "id": "el-vaso-de-leche-y-otras-historias",
+    "titulo": "El vaso de leche y otras historias",
+    "autor": "Manuel Rojas",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": "9786071690395",
+    "portada": null
+  },
+  {
+    "id": "elvia-carrillo-puerto",
+    "titulo": "Elvia Carrillo Puerto",
+    "autor": "Damiana Leyva Loría",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2024,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": "9786071683137",
+    "portada": null
+  },
+  {
+    "id": "en-el-mapa-de-como-el-mundo-adquirio-su-aspecto",
+    "titulo": "En el mapa. De cómo el mundo adquirió su aspecto",
+    "autor": "Simon Garfield",
+    "editorial": "Taurus",
+    "anio": 2013,
+    "coleccion": null,
+    "isbn": "9786071129208",
+    "portada": null
+  },
+  {
+    "id": "entre-lo-bello-y-lo-sublime",
+    "titulo": "Entre lo bello y lo sublime",
+    "autor": "Rubén González (recopilador)",
+    "editorial": "Colegio México",
+    "anio": 2014,
+    "coleccion": null,
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "entre-pancho-villa-y-una-mujer-desnuda",
+    "titulo": "Entre Pancho Villa y una mujer desnuda",
+    "autor": "Sabina Berman",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2020,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071669681",
+    "portada": null
+  },
+  {
+    "id": "escribir-por-ejemplo-de-los-inventores-de-la-tradicion",
+    "titulo": "Escribir, por ejemplo: de los inventores de la tradición",
+    "autor": "Carlos Monsiváis",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2008,
+    "coleccion": "Tezontle",
+    "isbn": "9786071600141",
+    "portada": null
+  },
+  {
+    "id": "geografias",
+    "titulo": "Geografías",
+    "autor": "Mario Benedetti",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "guerra-en-el-paraiso",
+    "titulo": "Guerra en el paraíso",
+    "autor": "Carlos Montemayor",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2020,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071670113",
+    "portada": null
+  },
+  {
+    "id": "hablapalabra-antologia-personal",
+    "titulo": "Hablapalabra. Antología personal",
+    "autor": "Luis Britto García",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2023,
+    "coleccion": "Colección Popular",
+    "isbn": "9789585197466",
+    "portada": null
+  },
+  {
+    "id": "hacia-un-humanismo-trascendente",
+    "titulo": "Hacia un humanismo trascendente",
+    "autor": "Rubén González",
+    "editorial": "Editorial Página Seis",
+    "anio": 2009,
+    "coleccion": null,
+    "isbn": "9786077768036",
+    "portada": null
+  },
+  {
+    "id": "historia-regional-y-local-las-ciudades-su-historia-y-su-proyeccion-en-la-region-",
+    "titulo": "Historia regional y local. Las ciudades, su historia y su proyección en la región. Tomo III",
+    "autor": "Varios autores",
+    "editorial": "Universidad de Guadalajara / Universidad Intercultural de Chiapas / Universidad Autónoma Chapingo / Instituto de Historia de Cuba",
+    "anio": null,
+    "coleccion": null,
+    "isbn": "9707644931",
+    "portada": null
+  },
+  {
+    "id": "la-batalla-de-zacatecas",
+    "titulo": "La batalla de Zacatecas",
+    "autor": "Alberto Calzadíaz Barrera",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2019,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": "9786071663283",
+    "portada": null
+  },
+  {
+    "id": "la-batalla-por-tenochtitlan",
+    "titulo": "La batalla por Tenochtitlan",
+    "autor": "Pedro Salmerón Sanginés",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2021,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071671134",
+    "portada": null
+  },
+  {
+    "id": "la-casa-del-juez",
+    "titulo": "La casa del Juez",
+    "autor": "Bram Stoker",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2023,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": "9786071679956",
+    "portada": null
+  },
+  {
+    "id": "la-cascarita",
+    "titulo": "La cascarita",
+    "autor": "Janil Uc Tun",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2023,
+    "coleccion": "Tierra Adentro",
+    "isbn": "9786071681140",
+    "portada": null
+  },
+  {
+    "id": "la-catedral",
+    "titulo": "La Catedral",
+    "autor": "Jacek Dukaj",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2022,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071676115",
+    "portada": null
+  },
+  {
+    "id": "la-ciencia-nuestra-de-cada-dia",
+    "titulo": "La ciencia nuestra de cada día",
+    "autor": "Francisco Rebolledo",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2007,
+    "coleccion": "La Ciencia para Todos",
+    "isbn": "9789681684433",
+    "portada": null
+  },
+  {
+    "id": "la-compania-82-de-bomberos-un-informe-reportaje",
+    "titulo": "La compañía 82 de bomberos: un informe-reportaje",
+    "autor": "Dennis Smith",
+    "editorial": "Grijalbo",
+    "anio": 1975,
+    "coleccion": "Best Sellers Grijalbo",
+    "isbn": "8425304598",
+    "portada": null
+  },
+  {
+    "id": "la-cruz-templaria",
+    "titulo": "La cruz templaria",
+    "autor": "Paul Christopher",
+    "editorial": "Algaida Editores",
+    "anio": 2012,
+    "coleccion": "Inter / Algaida Literaria",
+    "isbn": "9788498777277",
+    "portada": null
+  },
+  {
+    "id": "la-cruzada-de-los-ninos",
+    "titulo": "La cruzada de los niños",
+    "autor": "Marcel Schwob",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2020,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": "9786071670649",
+    "portada": null
+  },
+  {
+    "id": "la-familia-del-sol",
+    "titulo": "La familia del Sol",
+    "autor": "Julieta Fierro; Miguel Ángel Herrera",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2003,
+    "coleccion": "La Ciencia para Todos",
+    "isbn": "9789681670764",
+    "portada": null
+  },
+  {
+    "id": "la-manana-debe-seguir-gris",
+    "titulo": "La mañana debe seguir gris",
+    "autor": "Silvia Molina",
+    "editorial": "Joaquín Mortiz (edición original localizada)",
+    "anio": 1977,
+    "coleccion": null,
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "la-maravillosa-vida-breve-de-ernesto-guevara",
+    "titulo": "La maravillosa vida breve de Ernesto Guevara",
+    "autor": "Eduardo Galeano",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": "9789877196351",
+    "portada": null
+  },
+  {
+    "id": "la-marca-del-zorro",
+    "titulo": "La marca del Zorro",
+    "autor": "Sergio Ramírez",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "la-revolucion-cristera",
+    "titulo": "La Revolución Cristera",
+    "autor": "Emilio Rodríguez Jiménez",
+    "editorial": "Publicación local, Tepatitlán de Morelos, Jalisco",
+    "anio": null,
+    "coleccion": null,
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "la-revolucion-de-los-claveles-simbolos-y-testimonios-del-25-de-abril-en-portugal",
+    "titulo": "La Revolución de los Claveles. Símbolos y testimonios del 25 de abril en Portugal",
+    "autor": "Ricardo Nunes Viel",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2024,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071683793",
+    "portada": null
+  },
+  {
+    "id": "la-sunamita",
+    "titulo": "La sunamita",
+    "autor": "Inés Arredondo",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": null,
+    "coleccion": null,
+    "isbn": "9786071663214",
+    "portada": null
+  },
+  {
+    "id": "las-historias-prohibidas-de-pulgarcito",
+    "titulo": "Las historias prohibidas de Pulgarcito",
+    "autor": "Roque Dalton",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": "9786071690050",
+    "portada": null
+  },
+  {
+    "id": "las-nuevas-herramientas-de-la-astronomia",
+    "titulo": "Las nuevas herramientas de la astronomía",
+    "autor": "Julieta Fierro",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2024,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": "9786071684837",
+    "portada": null
+  },
+  {
+    "id": "las-profecias-mayas",
+    "titulo": "Las profecías mayas",
+    "autor": "Adrian G. Gilbert; Maurice M. Cotterell",
+    "editorial": "Debolsillo",
+    "anio": 2010,
+    "coleccion": null,
+    "isbn": "9786074299847",
+    "portada": null
+  },
+  {
+    "id": "literatos-en-caricatura-y-sus-frases-celebres-tomo-1",
+    "titulo": "Literatos en caricatura y sus frases célebres. Tomo 1",
+    "autor": "Emilio Rodríguez Jiménez",
+    "editorial": "Gobierno de Tepatitlán de Morelos",
+    "anio": 2017,
+    "coleccion": null,
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "los-anarquistas-expropiadores",
+    "titulo": "Los anarquistas expropiadores",
+    "autor": "Osvaldo Bayer",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "los-cuatro-procesos-del-pensamiento-y-sus-aplicaciones",
+    "titulo": "Los cuatro procesos del pensamiento y sus aplicaciones",
+    "autor": "Jorge Pinedo; Laura González; Olivia González; Claudia Pinedo",
+    "editorial": "SISA, Cultura de Servicio",
+    "anio": 2001,
+    "coleccion": null,
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "los-hombres-son-de-marte-las-mujeres-son-de-venus",
+    "titulo": "Los hombres son de Marte, las mujeres son de Venus",
+    "autor": "John Gray",
+    "editorial": "Océano",
+    "anio": 2021,
+    "coleccion": "Marte y Venus",
+    "isbn": "9786075573830",
+    "portada": null
+  },
+  {
+    "id": "los-teules-de-la-sala-orozco",
+    "titulo": "Los Teules de la Sala Orozco",
+    "autor": "Museo Cabañas",
+    "editorial": "Museo Cabañas / Hospicio Cabañas",
+    "anio": null,
+    "coleccion": null,
+    "isbn": null,
+    "portada": null
+  },
+  {
+    "id": "los-treinta-y-tres-negros",
+    "titulo": "Los treinta y tres negros",
+    "autor": "Vicente Riva Palacio",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2019,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": "9786071662125",
+    "portada": null
+  },
+  {
+    "id": "malleus-maleficarum-el-martillo-de-las-brujas",
+    "titulo": "Malleus Maleficarum. El martillo de las brujas",
+    "autor": "Heinrich Kramer; Jacobus Sprenger",
+    "editorial": "Total Book",
+    "anio": 2021,
+    "coleccion": null,
+    "isbn": "9786078578276",
+    "portada": null
+  },
+  {
+    "id": "manana-es-lejos-memorias-verdes-de-los-anos-rabiosos",
+    "titulo": "Mañana es lejos. Memorias verdes de los años rabiosos",
+    "autor": "Eduardo Rosenzvaig",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2026,
+    "coleccion": "25 para el 25",
+    "isbn": "9786071691255",
+    "portada": null
+  },
+  {
+    "id": "mapocho",
+    "titulo": "Mapocho",
+    "autor": "Nona Fernández",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2021,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071673749",
+    "portada": null
+  },
+  {
+    "id": "mexico-barbaro",
+    "titulo": "México Bárbaro",
+    "autor": "John Kenneth Turner",
+    "editorial": "Editorial Época",
+    "anio": 2009,
+    "coleccion": "Nuevo Talento",
+    "isbn": "9789706271914",
+    "portada": null
+  },
+  {
+    "id": "mexico-insurgente",
+    "titulo": "México insurgente",
+    "autor": "John Reed",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2021,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071670571",
+    "portada": null
+  },
+  {
+    "id": "mexico-secreto",
+    "titulo": "México secreto",
+    "autor": "Francisco Martín Moreno",
+    "editorial": "Planeta",
+    "anio": 2014,
+    "coleccion": null,
+    "isbn": "9786070724275",
+    "portada": null
+  },
+  {
+    "id": "miguel-hidalgo-en-guadalajara-primera-insurgencia",
+    "titulo": "Miguel Hidalgo en Guadalajara: primera insurgencia",
+    "autor": "Laura Hernández",
+    "editorial": "Secretaría de Cultura del Gobierno del Estado de Jalisco",
+    "anio": 2010,
+    "coleccion": "Lecturas del Bicentenario",
+    "isbn": "9786079016111",
+    "portada": null
+  },
+  {
+    "id": "mongo-blanco",
+    "titulo": "Mongo Blanco",
+    "autor": "Carlos Bardem",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2020,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071668066",
+    "portada": null
+  },
+  {
+    "id": "namerica",
+    "titulo": "Ñamérica",
+    "autor": "Martín Caparrós",
+    "editorial": "Literatura Random House",
+    "anio": 2021,
+    "coleccion": null,
+    "isbn": "9786073806626",
+    "portada": null
+  },
+  {
+    "id": "no-contar-todo",
+    "titulo": "No contar todo",
+    "autor": "Emiliano Monge",
+    "editorial": "Literatura Random House",
+    "anio": 2018,
+    "coleccion": null,
+    "isbn": "9786073170000",
+    "portada": null
+  },
+  {
+    "id": "norman-bethune-un-cirujano-en-las-revoluciones",
+    "titulo": "Norman Bethune. Un cirujano en las revoluciones",
+    "autor": "Eduardo Monteverde",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2023,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071682543",
+    "portada": null
+  },
+  {
+    "id": "nuestras-mujeres",
+    "titulo": "Nuestras mujeres",
+    "autor": "Jennifer Thorndike",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2024,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071683267",
+    "portada": null
+  },
+  {
+    "id": "on-the-origin-of-species",
+    "titulo": "On the Origin of Species",
+    "autor": "Charles Darwin",
+    "editorial": "Alma Classics",
+    "anio": 2019,
+    "coleccion": "Evergreens",
+    "isbn": "9781847497840",
+    "portada": null
+  },
+  {
+    "id": "operacion-carlota-cuba-en-angola",
+    "titulo": "Operación Carlota. Cuba en Angola",
+    "autor": "Gabriel García Márquez",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": "9786287800113",
+    "portada": null
+  },
+  {
+    "id": "pedro-moreno-el-heroe-del-fuerte-del-sombrero",
+    "titulo": "Pedro Moreno. El héroe del Fuerte del Sombrero",
+    "autor": "Francisco Belgodere; Laura Hernández",
+    "editorial": "Secretaría de Cultura del Gobierno del Estado de Jalisco",
+    "anio": 2010,
+    "coleccion": "Lecturas del Bicentenario",
+    "isbn": "9786079016135",
+    "portada": null
+  },
+  {
+    "id": "piense-en-grande-hagase-millonario",
+    "titulo": "Piense en grande, hágase millonario",
+    "autor": "Enrique Rosado G.",
+    "editorial": "Editorial Época",
+    "anio": null,
+    "coleccion": null,
+    "isbn": "9786079400385",
+    "portada": null
+  },
+  {
+    "id": "poemas",
+    "titulo": "Poemas",
+    "autor": "Raúl Zurita",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": "9786071690593",
+    "portada": null
+  },
+  {
+    "id": "poesia-escogida",
+    "titulo": "Poesía escogida",
+    "autor": "Roberto Fernández Retamar",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": "9786071691231",
+    "portada": null
+  },
+  {
+    "id": "profecias-mayas-mito-y-realidad",
+    "titulo": "Profecías mayas. Mito y realidad",
+    "autor": "Carlos Mesa",
+    "editorial": "Ediciones Nowtilus",
+    "anio": 2011,
+    "coleccion": "Investigación Abierta",
+    "isbn": "9788499670409",
+    "portada": null
+  },
+  {
+    "id": "rasero-el-sueno-de-la-razon",
+    "titulo": "Rasero. El sueño de la razón",
+    "autor": "Francisco Rebolledo",
+    "editorial": "Joaquín Mortiz / Planeta",
+    "anio": 2001,
+    "coleccion": null,
+    "isbn": "9682708060",
+    "portada": null
+  },
+  {
+    "id": "requiem-por-teresa",
+    "titulo": "Réquiem por Teresa",
+    "autor": "Dante Liano",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2019,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071662712",
+    "portada": null
+  },
+  {
+    "id": "salida-de-emergencia",
+    "titulo": "Salida de emergencia",
+    "autor": "Fabrizio Mejía Madrid",
+    "editorial": "Mondadori",
+    "anio": 2007,
+    "coleccion": "Literatura Mondadori",
+    "isbn": "9789707809055",
+    "portada": null
+  },
+  {
+    "id": "salvajes",
+    "titulo": "Salvajes",
+    "autor": "Antonio Ramos Revillas",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2021,
+    "coleccion": "A través del Espejo",
+    "isbn": "9786071669773",
+    "portada": null
+  },
+  {
+    "id": "sonya-la-roja-la-sombra-del-buitre",
+    "titulo": "Sonya la Roja. La sombra del Buitre",
+    "autor": "Robert E. Howard",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "Vientos del Pueblo",
+    "isbn": "9786071689047",
+    "portada": null
+  },
+  {
+    "id": "tu-hijo",
+    "titulo": "Tu hijo",
+    "autor": "Benjamin Spock",
+    "editorial": "Ediciones B",
+    "anio": 2007,
+    "coleccion": "Vivir Mejor",
+    "isbn": "9788466631822",
+    "portada": null
+  },
+  {
+    "id": "tu-y-yo",
+    "titulo": "Tú y yo",
+    "autor": "Norma Muñoz Ledo",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2021,
+    "coleccion": "A la Orilla del Viento",
+    "isbn": "9786071670540",
+    "portada": null
+  },
+  {
+    "id": "viaje-a-ixtlan-las-lecciones-de-don-juan",
+    "titulo": "Viaje a Ixtlán. Las lecciones de don Juan",
+    "autor": "Carlos Castaneda",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": null,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071635327",
+    "portada": null
+  },
+  {
+    "id": "viento-de-primavera-antologia-poetica-1945-1979",
+    "titulo": "Viento de primavera. Antología poética (1945-1979)",
+    "autor": "Alaíde Foppa",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2022,
+    "coleccion": null,
+    "isbn": "9786071675644",
+    "portada": null
+  },
+  {
+    "id": "vivir-los-valores-el-valor-de-ser-mejores",
+    "titulo": "Vivir los valores. El valor de ser mejores",
+    "autor": "Fundación Televisa",
+    "editorial": "Editorial Televisa",
+    "anio": 2016,
+    "coleccion": null,
+    "isbn": "9786077871224",
+    "portada": null
+  },
+  {
+    "id": "week-end-en-guatemala",
+    "titulo": "Week-end en Guatemala",
+    "autor": "Miguel Ángel Asturias",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2023,
+    "coleccion": "Colección Popular",
+    "isbn": "9786071677020",
+    "portada": null
+  },
+  {
+    "id": "zapatos-para-toda-la-vida-y-otros-cuentos",
+    "titulo": "Zapatos para toda la vida y otros cuentos",
+    "autor": "Guadalupe Dueñas",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "25 para el 25",
+    "isbn": "9786071690197",
+    "portada": null
+  },
+  {
+    "id": "ahora-el-pueblo-hacia-la-revolucion-ciudadana",
+    "titulo": "¡Ahora el pueblo! Hacia la revolución ciudadana",
+    "autor": "Jean-Luc Mélenchon",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2025,
+    "coleccion": "Tezontle",
+    "isbn": "9786071687029",
+    "portada": null
+  },
+  {
+    "id": "como-funciona-una-celula-fisiologia-celular",
+    "titulo": "¿Cómo funciona una célula? Fisiología celular",
+    "autor": "Antonio Peña",
+    "editorial": "Fondo de Cultura Económica",
+    "anio": 2009,
+    "coleccion": "La Ciencia para Todos",
+    "isbn": null,
+    "portada": null
+  }
+]
