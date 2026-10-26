@@ -2,6 +2,12 @@
 
 Sitio estático listo para GitHub Pages. No utiliza base de datos, servidor ni dependencias externas de JavaScript.
 
+## Proyecto personal y cultural
+
+**Entre libros y letras** es un proyecto personal y cultural dedicado a la lectura compartida, la memoria del club, sus reuniones y la organización de recursos relacionados con los libros. Este repositorio corresponde a la capa pública del proyecto y no forma parte de la actividad académica o institucional de Alberto Jorge Galindo Barboza.
+
+La gestión canónica de inventarios, ejemplares, sesiones, participación y otras tareas administrativas se mantiene separada en el repositorio privado `aljogaba/entre-libros-y-letras-admin`. El sitio público consume únicamente las salidas derivadas necesarias para su presentación.
+
 ## Abrirlo en la computadora
 
 1. Abre esta carpeta en VS Code.
@@ -139,3 +145,7 @@ assets/
 El primer año del club concluye con *Cien años de soledad*. El segundo año inicia con *Cadáver exquisito*.
 
 La firma utilizada es: `by Alberto Jorge Galindo Barboza`.
+
+## Derechos y contenido de terceros
+
+Los textos originales, diseño, identidad visual, fotografías propias y materiales originales del proyecto están protegidos por derechos de autor. Las cubiertas de libros, títulos, nombres de autores, citas breves y otros materiales de terceros conservan los derechos de sus respectivos titulares y se utilizan únicamente con fines informativos, culturales o de identificación bibliográfica.
