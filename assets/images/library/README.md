@@ -35,16 +35,12 @@ No es necesario editar `biblioteca-jorge.json` para agregar una portada de un li
 
 ## Flujo normal
 
-1. Identifica el `id` del libro en `assets/data/biblioteca-jorge.json`.
-2. Guarda la portada con ese nombre en esta carpeta.
-3. Haz `git add`, `git commit` y `git push` en el repositorio público.
-
-Ejemplo:
-
-```powershell
-git add assets/images/library
-git commit -m "Agrega portadas a Biblioteca de Jorge"
-git push
-```
+1. Sincroniza el repositorio público con **Fetch/Pull** en GitHub Desktop.
+2. Identifica el `id` del libro en `assets/data/biblioteca-jorge.json`.
+3. Guarda la portada con ese nombre exacto en esta carpeta.
+4. Revisa la página con Live Server en VS Code.
+5. Revisa los cambios, crea el commit y usa **Push origin** en GitHub Desktop.
 
 Para nuevas incorporaciones bibliográficas, primero se registra el libro desde el repositorio administrativo y se publica `biblioteca-jorge.json`; después puede agregarse aquí su portada.
+
+El `README.md` de la raíz es la referencia operativa principal del sitio público.
