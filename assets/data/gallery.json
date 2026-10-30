@@ -116,7 +116,7 @@
     "width": 1351,
     "height": 607
   },
-    {
+  {
     "src": "assets/images/meetings/2026-09-03-presencial_1.jpeg",
     "date": "03 Septiembre 2026",
     "title": "Discusión de Cadáver Exquisito",
@@ -125,7 +125,7 @@
     "width": 1351,
     "height": 607
   },
-      {
+  {
     "src": "assets/images/meetings/2026-09-03-presencial_2.jpeg",
     "date": "03 Septiembre 2026",
     "title": "Discusión de Cadáver Exquisito",
@@ -133,5 +133,14 @@
     "caption": "Nuevo integrante, Bienvenido Heriberto (saliste cortado).",
     "width": 1351,
     "height": 607
+  },
+  {
+    "src": "assets/images/meetings/2026-10-29-presencial.svg",
+    "date": "29 octubre 2026",
+    "title": "Una nueva etapa",
+    "format": "Presencial",
+    "caption": "Entre libros y letras se reúne nuevamente para conversar, compartir y comenzar una nueva etapa del club.",
+    "width": 1350,
+    "height": 900
   }
 ]
