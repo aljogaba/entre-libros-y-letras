@@ -109,14 +109,24 @@
     "cover": "assets/images/books/cadaver-exquisito.jpg",
     "note": "La lectura con la que Entre libros y letras inicia su segundo año."
   },
-    {
+  {
     "id": "mercader-libros",
     "title": "El mercader de libros",
     "author": "Luis Zueco",
     "period": "Segundo año · 2026",
+    "status": "Leído",
+    "current": false,
+    "cover": "assets/images/books/mercader-libros.jpg",
+    "note": "Segunda lectura del segundo año del club."
+  },
+  {
+    "id": "el-tulipan-negro",
+    "title": "El tulipán negro",
+    "author": "Alexandre Dumas",
+    "period": "Noviembre 2026",
     "status": "Leyendo",
     "current": true,
-    "cover": "assets/images/books/mercader-libros.jpg",
-    "note": "Vamos por el segundo libro en el segundo año."
+    "cover": "assets/images/books/el-tulipan-negro.jpg",
+    "note": "La lectura con la que Entre libros y letras abre esta nueva etapa del club."
   }
 ]
